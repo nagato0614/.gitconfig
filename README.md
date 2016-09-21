@@ -1,0 +1,1 @@
+自分が使っているglobalの.gitconfig
